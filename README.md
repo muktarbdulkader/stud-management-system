@@ -84,5 +84,5 @@ Follow these steps to set up the project locally:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+https://github.com/muktarbdulkader/stud-management-system
 ```
